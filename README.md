@@ -1,5 +1,5 @@
-Credit Risk Modeling Project
-Overview
+# Credit Risk Modeling Project
+## Overview
 
 This project focuses on building a credit risk model to assess the likelihood of loan defaults. The project involves extensive preprocessing, feature engineering, and preparation of datasets for predictive modeling. The work includes creating categorical variables, binning numeric variables into meaningful intervals, and preparing the dataset for machine learning models.
 Project Steps
